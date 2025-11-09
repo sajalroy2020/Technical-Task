@@ -45,7 +45,7 @@ npm install
 
 3. Set backend API URL in `.env`:
 
-REACT_APP_API_URL=http://127.0.0.1:8000/api
+REACT_APP_API_URL=http://127.0.0.1:8000/api/v1
 
 
 4. Start the app:
